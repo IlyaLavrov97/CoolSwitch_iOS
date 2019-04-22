@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00f4f57d-82db-4703-ad95-26d88a9d75a2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Main.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1555509641914" expanded="false" signature="6:97" ph="..." />
+                <marker date="1555509641914" expanded="true" signature="120:476" ph="{...}" />
+                <marker date="1555509641914" expanded="true" signature="151:474" ph="{...}" />
+                <marker date="1555509641914" expanded="true" signature="257:468" ph="{...}" />
+                <marker date="1555509641914" expanded="true" signature="280:399" ph="/* if you want to use a different Application Delegate class from &quot;AppDelegate&quot; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/ViewController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+              <folding>
+                <marker date="1555680671684" expanded="false" signature="6:74" ph="..." />
+                <marker date="1555680671684" expanded="true" signature="97:1074" ph="{...}" />
+                <marker date="1555680671684" expanded="true" signature="158:1072" ph="{...}" />
+                <marker date="1555680671684" expanded="true" signature="248:268" ph="{...}" />
+                <marker date="1555680671684" expanded="true" signature="312:872" ph="{...}" />
+                <marker date="1555680671684" expanded="true" signature="928:1066" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/CoolSwitchControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1136">
+              <caret line="71" column="39" lean-forward="true" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+              <folding>
+                <marker date="1555928673037" expanded="true" signature="6:116" ph="..." />
+                <marker date="1555928673037" expanded="true" signature="148:6421" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="194:6301" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="741:829" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="900:1164" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="962:1153" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="1204:1881" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="1934:5867" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="2322:2377" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="2777:2970" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="3918:4139" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="4335:4397" ph="/* Layer.AddSublayer(_switchLayer); ... */" />
+                <marker date="1555928673037" expanded="true" signature="4730:5114" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="5264:5323" ph="/* Layer.AddSublayer(_offLayer); ... */" />
+                <marker date="1555928673037" expanded="true" signature="5426:5585" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="5681:5734" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="5927:6295" ph="{...}" />
+                <marker date="1555928673037" expanded="true" signature="6336:6419" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/InvertedLabel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="40" />
+              <folding>
+                <marker date="1555924368560" expanded="true" signature="6:32" ph="..." />
+                <marker date="1555924368560" expanded="true" signature="64:751" ph="{...}" />
+                <marker date="1555924368560" expanded="true" signature="107:749" ph="{...}" />
+                <marker date="1555924368560" expanded="true" signature="228:278" ph="{...}" />
+                <marker date="1555924368560" expanded="true" signature="338:410" ph="{...}" />
+                <marker date="1555924368560" expanded="true" signature="458:743" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Resources/power_filled.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/CoolSwitchControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/InvertedLabel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstApp/MainActivity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstApp/Resources/Resource.designer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Main.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FirstApp/MainActivity.cs" />
+        <option value="$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/TestControl.cs" />
+        <option value="$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/CoolSwith.cs" />
+        <option value="$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/CoolSwithControl.cs" />
+        <option value="$PROJECT_DIR$/TestApp/TestApp.iOS/ViewController.cs" />
+        <option value="$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/InvertedLabel.cs" />
+        <option value="$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/CoolSwitchControl.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="FirstApp/invalid/Android Facet - FirstApp" />
+      <facet id="TestApp.Android/invalid/Android Facet - TestApp.Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FirstApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FirstApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestApp.iOS" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FirstApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestApp.iOS" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controls" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/power_filled.png" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.iOS.iOS Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TestApp/TestApp.iOS/TestApp.iOS.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="iPhone Xʀ iOS 12.2" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Simulator" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f4f57d-82db-4703-ad95-26d88a9d75a2" name="Default Changelist" comment="" />
+      <created>1555500125711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555500125711</updated>
+      <workItem from="1555500128421" duration="1263000" />
+      <workItem from="1555501735029" duration="28605000" />
+      <workItem from="1555677451423" duration="23324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53192000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18051118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32920355" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32920355" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="12" />
+      <window_info anchor="bottom" id="Logcat" order="13" weight="0.32920355" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" weight="0.32920355" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Inspection Results" order="17" weight="0.32920355" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="6" weight="0.32960597" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Main.storyboard">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstApp/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1555502065859" expanded="false" signature="6:183" ph="..." />
+            <marker date="1555502065859" expanded="true" signature="203:1993" ph="{...}" />
+            <marker date="1555502065859" expanded="true" signature="358:1991" ph="{...}" />
+            <marker date="1555502065859" expanded="true" signature="433:930" ph="{...}" />
+            <marker date="1555502065859" expanded="true" signature="992:1102" ph="{...}" />
+            <marker date="1555502065859" expanded="true" signature="1170:1314" ph="{...}" />
+            <marker date="1555502065859" expanded="true" signature="1383:1614" ph="{...}" />
+            <marker date="1555502065859" expanded="true" signature="1771:1985" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstApp/Resources/Resource.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1555496331405" expanded="true" signature="29:424" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1555496331405" expanded="true" signature="548:205265" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="677:205263" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="703:774" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="815:823" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="859:2538" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="2423:2497" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="2524:2534" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="2573:2826" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="2712:2786" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="2812:2822" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="2862:35601" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="35486:35560" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="35587:35597" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="35635:36331" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="36218:36292" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="36317:36327" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="36363:46909" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="46798:46872" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="46895:46905" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="46945:64073" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="63958:64032" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="64059:64069" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="64108:76035" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="75921:75995" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="76021:76031" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="76064:92094" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="91986:92060" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="92080:92090" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="92128:93309" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="93196:93270" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="93295:93305" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="93342:99966" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="99854:99928" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="99952:99962" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="99997:100218" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="100108:100182" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="100204:100214" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="100251:100671" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="100559:100633" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="100657:100667" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="100704:105194" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="105082:105156" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="105180:105190" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="105226:149533" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="149422:149496" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="149519:149529" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="149569:205260" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="149623:150117" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="152628:152644" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="152801:152817" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="153006:153109" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="153667:153702" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="153969:154087" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="154749:154829" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="155347:155382" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="155631:155666" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="155927:155994" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="156396:156463" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="156877:156983" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="157739:157874" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="158685:160705" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="172282:172368" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="172888:172940" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="173313:173331" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="173484:173757" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="175476:175511" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="175803:175851" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="176172:176222" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="176541:176576" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="176823:176941" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="177704:177756" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="178080:178217" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="178983:179120" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="179943:179961" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="180126:180229" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="180828:180925" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="181503:181551" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="181923:182067" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="182999:183060" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="183541:183572" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="183835:183926" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="184498:184864" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="186872:187012" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="187888:188053" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="188987:189035" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="189379:189397" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="189558:189593" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="189836:190020" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="191119:191137" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="191304:191322" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="191481:191763" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="193248:193298" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="193614:193692" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="194164:194397" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="195634:195680" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="195970:196243" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="197633:197833" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="199076:199345" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="200914:201404" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="203891:203973" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="204412:204462" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="204808:204854" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="205145:205219" ph="{...}" />
+            <marker date="1555496331405" expanded="true" signature="205246:205256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstApp/Resources/layout/activity_main.axml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Resources/Controls/power.png" />
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Resources/Controls/sync.png" />
+    <entry file="file:///Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Resources/power@2.png" />
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Resources/sync@2.png" />
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Resources/power.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1555509641914" expanded="false" signature="6:97" ph="..." />
+            <marker date="1555509641914" expanded="true" signature="120:476" ph="{...}" />
+            <marker date="1555509641914" expanded="true" signature="151:474" ph="{...}" />
+            <marker date="1555509641914" expanded="true" signature="257:468" ph="{...}" />
+            <marker date="1555509641914" expanded="true" signature="280:399" ph="/* if you want to use a different Application Delegate class from &quot;AppDelegate&quot; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/ViewController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+          <folding>
+            <marker date="1555680671684" expanded="false" signature="6:74" ph="..." />
+            <marker date="1555680671684" expanded="true" signature="97:1074" ph="{...}" />
+            <marker date="1555680671684" expanded="true" signature="158:1072" ph="{...}" />
+            <marker date="1555680671684" expanded="true" signature="248:268" ph="{...}" />
+            <marker date="1555680671684" expanded="true" signature="312:872" ph="{...}" />
+            <marker date="1555680671684" expanded="true" signature="928:1066" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Resources/power_filled.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/InvertedLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <marker date="1555924368560" expanded="true" signature="6:32" ph="..." />
+            <marker date="1555924368560" expanded="true" signature="64:751" ph="{...}" />
+            <marker date="1555924368560" expanded="true" signature="107:749" ph="{...}" />
+            <marker date="1555924368560" expanded="true" signature="228:278" ph="{...}" />
+            <marker date="1555924368560" expanded="true" signature="338:410" ph="{...}" />
+            <marker date="1555924368560" expanded="true" signature="458:743" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/TestApp.iOS/Controls/CoolSwitchControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="71" column="39" lean-forward="true" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+          <folding>
+            <marker date="1555928673037" expanded="true" signature="6:116" ph="..." />
+            <marker date="1555928673037" expanded="true" signature="148:6421" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="194:6301" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="741:829" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="900:1164" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="962:1153" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="1204:1881" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="1934:5867" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="2322:2377" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="2777:2970" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="3918:4139" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="4335:4397" ph="/* Layer.AddSublayer(_switchLayer); ... */" />
+            <marker date="1555928673037" expanded="true" signature="4730:5114" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="5264:5323" ph="/* Layer.AddSublayer(_offLayer); ... */" />
+            <marker date="1555928673037" expanded="true" signature="5426:5585" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="5681:5734" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="5927:6295" ph="{...}" />
+            <marker date="1555928673037" expanded="true" signature="6336:6419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

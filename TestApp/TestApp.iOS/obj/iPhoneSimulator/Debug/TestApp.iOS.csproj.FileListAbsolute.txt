@@ -1,0 +1,14 @@
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.pdb
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.csprojAssemblyReference.cache
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.csproj.CoreCompileInputs.cache
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.exe
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.pdb
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/optimized/power.png
+/Users/ilia_lavrov/Projects/FirstApp/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/optimized/power_filled.png

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D9ADFF0F-A660-4F5A-8688-B498095E74C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstApp FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstApp/MainActivity.cs">
+    <Files>
+      <File FileName="FirstApp/MainActivity.cs" Line="12" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
